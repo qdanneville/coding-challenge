@@ -1,0 +1,2 @@
+body{display:flex;justify-content:center;align-items:center;height:100vh;background-color:#639;color:#fff;overflow:hidden}.star{animation:falling 5s linear forwards;position:absolute;top:-5vh}@keyframes falling{0%{transform:translate3d(0,-5vh,0)}to{transform:translate3d(0,105vh,0)}}
+/*# sourceMappingURL=styles.54a454be.css.map */
